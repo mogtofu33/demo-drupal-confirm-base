@@ -1,0 +1,6 @@
+demo_confirm_form.settings_form:
+  title: Demo confirm form
+  description: Configure demo confirm form.
+  parent: system.admin_config_system
+  route_name: demo_confirm_form.settings_form
+  weight: 1

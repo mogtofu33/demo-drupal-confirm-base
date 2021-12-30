@@ -1,0 +1,7 @@
+demo_confirm_form.settings_form:
+  path: '/admin/config/system/demo-form'
+  defaults:
+    _title: 'demo confirm form'
+    _form: 'Drupal\demo_confirm_form\Form\ExampleForm'
+  requirements:
+    _permission: 'administer demo_confirm_form configuration'

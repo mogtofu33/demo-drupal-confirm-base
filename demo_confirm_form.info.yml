@@ -1,0 +1,6 @@
+name: Demo confirm form
+type: module
+description: Example for a confirm form and a form submit on the same class.
+package: Demo
+core: 8.x
+core_version_requirement: ^8 || ^9
