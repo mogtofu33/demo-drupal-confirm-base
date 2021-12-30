@@ -1,3 +1,11 @@
+demo_confirm_form.settings_form_minimal:
+  path: '/admin/config/system/demo-form-minimal'
+  defaults:
+    _title: 'demo confirm form minimal'
+    _form: 'Drupal\demo_confirm_form\Form\ExampleMinimalForm'
+  requirements:
+    _permission: 'administer demo_confirm_form_minimal configuration'
+
 demo_confirm_form.settings_form:
   path: '/admin/config/system/demo-form'
   defaults:
